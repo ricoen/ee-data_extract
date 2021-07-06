@@ -1,6 +1,4 @@
 # ee-data_extract
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Google Earth Engine Data Extract
 
 This is an example for give explanation how to extract data from raster dataset.

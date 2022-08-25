@@ -6,5 +6,5 @@ The dataset is obtained from Google Earth Engine and provided by NASA GES DISC a
 
 https://developers.google.com/earth-engine/datasets/catalog/NASA_GLDAS_V021_NOAH_G025_T3H?hl=en
 
-## For interactive notebook, please visit this page
-https://mybinder.org/v2/gh/ricoen/ee_data_extract/HEAD
+<!-- ## For interactive notebook, please visit this page
+https://mybinder.org/v2/gh/ricoen/ee_data_extract/HEAD -->

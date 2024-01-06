@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 112.627611296258493, -7.923556477543253 ], [ 112.628220121125892, -7.923730785760235 ], [ 112.628048889131932, -7.924296109199325 ], [ 112.627454333597342, -7.924102957111619 ], [ 112.627611296258493, -7.923556477543253 ] ] ] ] } }
+]
+}
